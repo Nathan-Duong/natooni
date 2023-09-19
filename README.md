@@ -1,5 +1,6 @@
 ### Hello, I'm Nathan 👋
 🏫I'm an undergraduate student at **San Jose State University**
+
 🔍Currently learning about **Machine Learning** and **Statistics**
 <!--
 **natooni/natooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
